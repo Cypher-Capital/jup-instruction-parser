@@ -1,7 +1,7 @@
 {
-	"name": "@hypeshot/instruction-parser",
-	"version": "1.0.8",
-	"description": "Parser to parse instruction on the Jupiter v4 program (fork: @jup-ag/instruction-parser).",
+	"name": "@cypher-capital/instruction-parser",
+	"version": "1.0.0",
+	"description": "Parser to parse instruction on the Jupiter v6 program",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
 	"module": "dist/index.mjs",
