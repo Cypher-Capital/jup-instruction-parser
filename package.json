@@ -1,6 +1,6 @@
 {
-	"name": "@cypher-capital/instruction-parser",
-	"version": "1.0.1",
+	"name": "@cypher-capital/jup-instruction-parser",
+	"version": "1.0.0",
 	"description": "Parser to parse instruction on the Jupiter v6 program",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
